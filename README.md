@@ -6,4 +6,4 @@ Greetings!! If you are reading this then you've heard of GraphQL Nexus from a ta
 
 If you're interested in following along with the progress, feel free to star and/or watch the repo.
 
-If you'd like to contribute, checkout the [develop](tree/develop) branch where you can browse through the source code and follow the instructions for building the docs, getting started, etc.
+If you'd like to contribute, **checkout the [develop](tree/develop) branch** where you can browse through the source code and follow the instructions for building the docs, getting started, etc.
