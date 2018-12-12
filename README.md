@@ -2,7 +2,7 @@
 
 **Simple, Scalable, Type-Safe, Resolver-First GraphQL Schema Construction**
 
-Greetings!! If you are reading this then you've heard of GraphQL Nexus from a talk or found it from another open source project which uses it. This is just a quick note that GraphQL Nexus is still very much under development and isn't yet ready for prime-time, though it's getting close!
+Greetings!! If you are reading this then you've heard of Nexus from a talk or found it from another open source project which uses it. This is just a quick note that Nexus is still very much under development and isn't yet ready for prime-time, though it's getting close!
 
 If you're interested in following along with the progress, feel free to star and/or watch the repo.
 
